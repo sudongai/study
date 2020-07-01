@@ -11,7 +11,7 @@ Contributions are welcome!
 # fork repo
 
 # 克隆项目
-git clone git@github.com:jasonandjay/study.git
+git clone https://github.com/sudongai/study.git
 ```
 
 ## Development
