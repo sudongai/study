@@ -88,7 +88,7 @@ module.exports = {
                             { text: 'React Hooks', link: '/zh/standard/Hooks.md' },
                             { text: 'TypeScript 基础用法', link: '/zh/summary/typescript.md' },
                             { text: 'TypeScript 高级用法', link: '/zh/summary/deepTypescript.md' },
-                            { text: 'css', link: '/zh/css/css.md' },
+                            { text: 'css', link: '/zh/summary/deepTypescript.md' },
                             // { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
                             // { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
                             // { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
